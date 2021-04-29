@@ -1,6 +1,6 @@
 # Modern One-Time-Password Authentication
 
-** Coded with React.js, Redux and Material UI. **
+**Coded with React.js, Redux and Material UI.**
 
 ## What does it do?
 
