@@ -14,7 +14,7 @@
 * Logout
 * Push to home page if user has already logged in
 * Push to login from home page if user has not logged in
-
+* Alerts for error handling
 ### Anything else?
 
 * Clean code and completely Modular
