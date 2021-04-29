@@ -1,0 +1,5 @@
+{
+    "SEND_NUM": "/api/number",
+    "VALIDATE_CODE": "/api/validate",
+    "RESEND_CODE": "/api/resend"
+}

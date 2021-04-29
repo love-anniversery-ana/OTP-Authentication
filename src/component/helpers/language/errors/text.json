@@ -1,0 +1,9 @@
+{
+    "TITLE_500": "Internal Server Error",
+    "TITLE_401": "Your Token is Not Valid",
+    "TITLE_CONNECTION": "No Connection to Internet",
+    "TEXT_500": "Contact Companie's Support",
+    "TEXT_401": "You Must Login Again",
+    "TEXT_CONNECTION": "Please Check Your Network Connection",
+    "CONFIRM_TEXT": "OK"
+}
